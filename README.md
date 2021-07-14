@@ -1,1 +1,0 @@
-# loan-prediction-system-using-learning-machine
